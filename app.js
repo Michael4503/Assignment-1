@@ -1,4 +1,4 @@
-const classroomManager = require('./Michael_classroomManager');
+const classroomManager = require('./Michael_ClassroomManager');
 
 //Add Student
 classroomManager.addStudent("Alice", "1000", "alice@gmail.com");
